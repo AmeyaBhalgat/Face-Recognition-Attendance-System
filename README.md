@@ -40,26 +40,6 @@ This project is a POC web application demonstrating the use of facial recognitio
 - using a Linear SVM (scikit-learn)
 
 
-
-## Screenshots
-
-### Simple App Home Page UI
-
-![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213147.png?raw=true "App UI")
-
-### Data Entry With Name and Photo of Student
-
-![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213035.png?raw=true "App UI")
-
-### Image Recognition of Nikhil
-
-![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20213307.png?raw=true "App UI")
-
-### Attendance in tabular format 
-
-![Alt text](https://github.com/NIKHILAWATADE16/face-recognition/blob/master/ss/Screenshot%202023-05-11%20214035.png?raw=true "App UI")
-
-
 ## Scope of the project 🚀
 
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials. This project servers as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month.
